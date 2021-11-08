@@ -9,3 +9,6 @@ docker-r-h2o-tidyverse
 url: https://github.com/vladdsm/docker-r-h2o-tidyverse.git
 
 go to that directory and follow instructions
+
+# To do
+Also look at this: https://pythonspeed.com/docker/
